@@ -15,7 +15,7 @@ public extension Model {
     /// A GPT 4 model with vision capabilities
     static let gpt4VisionPreview = "gpt-4-vision-preview"
     /// 1106 preview snapshot
-    static let gpt4-1106-preview = "gpt-4-1106-preview"
+    static let gpt4_1106_preview = "gpt-4-1106-preview"
     /// More capable than any GPT-3.5 model, able to do more complex tasks, and optimized for chat. Will be updated with our latest model iteration 2 weeks after it is released.
     static let gpt4 = "gpt-4"
     /// Snapshot of gpt-4 from March 14th 2023. Unlike gpt-4, this model will not receive updates, and will only be supported for a three month period ending on June 14th 2023.
